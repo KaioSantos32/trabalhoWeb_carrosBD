@@ -2,6 +2,6 @@
 integrantes do grupo são:
 
  * Álife Souza Nascimento
- * Adrian
+ * Adrian Felipe dos Santos Benedito
  * Hugo Henrique Rodrigues de Oliveira
  * Kaio Henrique dos Santos
