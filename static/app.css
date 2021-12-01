@@ -1,0 +1,65 @@
+body {
+    padding-top: 10px;
+}
+
+.btn {
+    margin-bottom: 10px;
+}
+
+#page-header{
+    margin: 5px;
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.container {
+    border-radius: 4px;
+    margin: 5em 5em;
+    width: 80%;
+}
+
+
+.cadastro{
+    font-size: 36px;
+
+    margin-top: 10vh;
+    margin-left: 40vw;
+    margin-bottom: 10vh;
+}
+
+label{
+    font-size: 1.4em;
+}
+
+.busca_carro_titulo{
+    font-size: 36px;
+
+    margin-top: 10vh;
+    margin-left: 30vw;
+    margin-bottom: 10vh;
+}
+
+.tabela_carro_encontrado{
+        padding: 5vw;
+}
+
+.tabela_carro_encontrado h1{
+    margin-left: 35vw;
+    margin-bottom: 10vh;
+}
+
+.link_anchor{
+    font-weight: bold;
+}
+
+
+.form_container{
+    margin: auto 15px;
+}
+
+
+
+
+
+
