@@ -55,8 +55,14 @@ label{
 
 
 .form_container{
-    margin: auto 15px;
+    position: relative;
+    margin: auto 5vw;
 }
+
+/*.btn, .btn-primary{
+    position: relative;
+    margin: auto 5vw;
+}*/
 
 
 
